@@ -1,0 +1,10 @@
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\TestingNodes.njsprojResolveAssemblyReference.cache
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\package.json
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\public\stylesheets\style.styl
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\README.md
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\views\index.jade
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\views\layout.jade
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\app.js
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\routes\index.js
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\routes\user.js
+E:\Program Files\VS\Projects\TestingNodes\TestingNodes\obj\Debug\bin\Microsoft.NodejsTools.WebRole.dll
